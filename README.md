@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**UlaBorowska/UlaBorowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'am Ursula Borowska and this is my main code repository! 
 
-Here are some ideas to get you started:
+## My main goal is to develop a skillset and toolset required to perform high level data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm studying in Polish-Japanese Academy of Information Technology on a Information Management major.
+
+- ☝️ Result driven, highlty motivated data analyst !
+- ⭐ Inspired by the process of solving complex data issues.
+- 💻 Uploading my projects and research in data analysis.
+- 😊 Love for travel and mexican cusine!
+
+
+### Experienced with:
+
+<img align="left" alt="UlaBorowska | Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="UlaBorowska | Data" width="22px" src="https://simpleicons.org/icons/databricks.svg" />
+<img align="left" alt="UlaBorowska | Pandas" width="22px" src="https://simpleicons.org/icons/pandas.svg" />
+<img align="left" alt="UlaBorowska | SQL" width="22px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="UlaBorowska | NumPy" width="22px" src="https://simpleicons.org/icons/numpy.svg" />
+
+
+<br />
+
+---
